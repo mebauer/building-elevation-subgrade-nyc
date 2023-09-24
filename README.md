@@ -1,4 +1,4 @@
-# Exploring the NYC Building Elevation and Subgrade (BES) Dataset in Python
+# Exploring the Building Elevation and Subgrade (BES) Dataset for New York City in Python
 Mark Bauer
 
 I am in the process of building out a tutorial and basic exploratory data analysis using the Python programming language. Stay tuned.
