@@ -9,6 +9,8 @@ Mark Bauer
 
 ![grade-floor-mean](figures/grade-floor-mean.png)
 
+![successfully-measured](figures/successfully-measured.png)
+
 ### About the Project
 I am in the process of creating a tutorial and basic exploratory data analysis of this dataset using the Python programming language. You can find my initial work in the [exploratory.ipynb](https://github.com/mebauer/building-elevation-subgrade-nyc/blob/main/exploratory.ipynb) notebook.
 
