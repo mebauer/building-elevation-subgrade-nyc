@@ -2,11 +2,11 @@
 Mark Bauer
 
 # Table of Contents
-* [Introduction](#Introduction)
-* [Notebooks](#Notebooks)
-* [Data](#Data)
-* [Additional-Resources](#Additional-Resources)
-* [Say Hello!](#Say-Hello)
+* [1.Introduction](#1-Introduction)
+* [2.Notebooks](#2-Notebooks)
+* [3.Data](#3-Data)
+* [4. Additional-Resources](#4-Additional-Resources)
+* [5. Say Hello!](#5-Say-Hello)
 
 ![grade-floor-mean](figures/grade-floor-mean.png)
 
