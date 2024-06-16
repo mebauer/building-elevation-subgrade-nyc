@@ -1,31 +1,34 @@
-### Exploring the Building Elevation and Subgrade (BES) Dataset for New York City in Python
+# A Five Step Approach to Evaluate NYC’s Building Elevation and Subgrade Dataset in Python
 Mark Bauer
 
-### Table of Contents
-* [About the Project](#About-the-Project)
-* [About the Data](#About-the-Data)
-* [Press Release](#Press-Release)
+# Table of Contents
+* [Introduction](#Introduction)
+* [Notebooks](#Notebooks)
+* [Data](#Data)
+* [Additional-Resources](#Additional-Resources)
 * [Say Hello!](#Say-Hello)
 
 ![grade-floor-mean](figures/grade-floor-mean.png)
 
 ![successfully-measured](figures/successfully-measured.png)
 
-### About the Project
-I am in the process of creating a tutorial and basic exploratory data analysis of this dataset using the Python programming language. You can find my initial work in the [exploratory.ipynb](https://github.com/mebauer/building-elevation-subgrade-nyc/blob/main/exploratory.ipynb) notebook.
+# 1. Introduction
 
-### About the Data
+# 2. Notebooks
+
+# 3. Data
+- Official press release: https://www.nyc.gov/site/planning/about/press-releases/pr-20230920.page
 - Data on NYC Open Data: https://data.cityofnewyork.us/City-Government/Building-Elevation-and-Subgrade-BES-/bsin-59hv  
 - Data on NYC Department of City Planning's website under Waterfront, Climate, & Sustainability Datasets:  
 https://www.nyc.gov/site/planning/data-maps/open-data.page
 
-### Press Release
-You can read the official press release here: https://www.nyc.gov/site/planning/about/press-releases/pr-20230920.page.
 
-### Say Hello!
-Contact information:  
-Twitter: [markbauerwater](https://twitter.com/markbauerwater)   
-LinkedIn: [markebauer](https://www.linkedin.com/in/markebauer/)  
-GitHub: [mebauer](https://github.com/mebauer)
+# 4. Additional Resources
+
+# 5. Say Hello!
+Feel free to reach out for further discussions.
+- LinkedIn: [markebauer](https://www.linkedin.com/in/markebauer/)  
+- GitHub: [mebauer](https://github.com/mebauer)  
+- Portfolio: [mebauer.github.io](https://mebauer.github.io/)
 
 Keywords: *Building Elevation and Subgrade, Flood Risk, Flood, Flooding, Resiliency, First Floor, First Floor Elevation, First Floor Height, Lowest Adjacent Grade, Subgrade, Basement, New York City, Department of City Planning, Department of Building's, Python, pandas, GeoPandas, Numpy, Matplotlib, Seaborn, Jupyter, Open Data, Open Source, NYC Open Data*.
