@@ -13,18 +13,18 @@ Mark Bauer
 ![successfully-measured](figures/successfully-measured.png)
 
 # 1. Introduction
-On September 20, 2023, NYC's Department of City Planning (DCP) released a press release with the opening line, "City Planning Releases Most Comprehensive Data Set Ever on NYC Building Elevations, Flood Risk." I couldn't wait to get my hands dirty and learn more about this dataset. Spoiler alert: this is in fact an incredible dataset.
+On September 20, 2023, the NYC Department of City Planning (DCP) unveiled the Building Elevation and Subgrade (BES) dataset, lauded as a groundbreaking resource for understanding NYC building elevations and flood risk assessment. This dataset meticulously catalogues building floor elevations and subgrade spaces, pivotal for evaluating flood vulnerability and insurance implications under programs such as the National Flood Insurance Program (NFIP).
 
-The Building Elevation and Subgrade (BES) dataset contains building centroids of Department of Buildings' Building Footprint dataset, and each record contains a grade and first floor measurement for each building (recorded as feet above sea-level in the NADV88 vertical datum) and indicates if subgrade space exists.
+Inspired by the dataset's potential, this project aims to conduct a comprehensive evaluation of the NYC Building Elevation and Subgrade Dataset. Prior to formulating conclusions or strategies for its utilization, it is crucial to gain a nuanced understanding of its intricacies, limitations, and uncertainties.
 
 I argue for a five step approach to evaluating and learning more about NYC’s Building Elevation and Subgrade Dataset. These steps include:
-- 1. Preview Metadata: Examine the shape, counts, columns, data types and null constraints
-- 2. Data Coverage: Calculate percentage null of whole dataset, as well as by different groups (e.g. neighborhood)
-- 3. Summary Statistics and Visualize: Calculate statistics like min, max, mean, median of key features
-- 4. Groundtruth: Compare values against another best available dataset
-- 5. Feature Importance and Generalization: Identify features that contribute most to the model and to learn more about a target feature
+1. Preview Metadata: Examine the shape, counts, columns, data types and null constraints
+2. Data Coverage: Calculate percentage null of whole dataset, as well as by different groups (e.g. neighborhood)
+3. Summary Statistics and Visualize: Calculate statistics like min, max, mean, median of key features
+4. Groundtruth: Compare values against another best available dataset
+5. Feature Importance and Generalization: Identify features that contribute most to the model and to learn more about a target feature
 
-You can explore the notebooks in the Notebooks section.
+For more information, please see the [data dictionary](https://github.com/mebauer/building-elevation-subgrade-nyc/blob/main/Building_Elevation_and_Subgrade-Data_Dictionary.xlsx) and the [data guidance](https://github.com/mebauer/building-elevation-subgrade-nyc/blob/main/Building%20Elevation%20and%20Subgrade%20Dataset%20Guidance.pdf) files.
 
 
 # 2. Notebooks
