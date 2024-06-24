@@ -43,6 +43,7 @@ https://www.nyc.gov/site/planning/data-maps/open-data.page
 
 # 4. Additional Resources
 
+
 # 5. Say Hello!
 Feel free to reach out for further discussions.
 - LinkedIn: [markebauer](https://www.linkedin.com/in/markebauer/)  
