@@ -11,6 +11,7 @@ Mark Bauer
 ![grade-floor-mean](figures/grade-floor-mean.png)
 
 ![successfully-measured](figures/successfully-measured.png)
+Figure xx: Percent of properties that were successfully measured by Neighborhood Tabulation Area (NTA). White areas indicate parks, cemeteries, or other neighborhoods with less than 300 buildings and have been excluded from this display.
 
 # 1. Introduction
 On September 20, 2023, the NYC Department of City Planning (DCP) unveiled the Building Elevation and Subgrade (BES) dataset, lauded as a groundbreaking resource for understanding NYC building elevations and flood risk assessment. This dataset meticulously catalogues building floor elevations and subgrade spaces, pivotal for evaluating flood vulnerability and insurance implications under programs such as the National Flood Insurance Program (NFIP).
