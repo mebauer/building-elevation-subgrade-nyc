@@ -13,6 +13,18 @@ Mark Bauer
 ![successfully-measured](figures/successfully-measured.png)
 Figure xx: Percent of properties that were successfully measured by Neighborhood Tabulation Area (NTA). White areas indicate parks, cemeteries, or other neighborhoods with less than 300 buildings and have been excluded from this display. This statistic was derived from the notes_1 attribute and indicates if there were any obstacles to obtaining the z_grade or z_floor measurement.
 
+| notes1                                                                                                                               |   count |
+|:-------------------------------------------------------------------------------------------------------------------------------------|--------:|
+| Property not Visible Due to Construction or Obstruction                                                                              |  115281 |
+| Property not Visible Due to Construction or Obstruction; No Address Plate or Identification on Building                              |   17132 |
+| Property not Visible from Street; No Address Plate or Identification on Building                                                     |   12080 |
+| Vacant Lot; No Address Plate or Identification on Building                                                                           |    1957 |
+| Property not Visible Due to Construction or Obstruction; No Address Plate or Identification on Building; Property Under Construction |    1676 |
+| Property not Visible Due to Construction or Obstruction; Property Under Construction                                                 |    1414 |
+| Property not Visible from Street; No Address Plate or Identification on Building; Property Under Construction                        |       1 |
+| Property not Visible from Street                                                                                                     |       1 |
+Table xx: Count of buildings per notes1 attribute that were not successfully measured.
+
 # 1. Introduction
 On September 20, 2023, the NYC Department of City Planning (DCP) unveiled the Building Elevation and Subgrade (BES) dataset, lauded as a groundbreaking resource for understanding NYC building elevations and flood risk assessment. This dataset meticulously catalogues building floor elevations and subgrade spaces, pivotal for evaluating flood vulnerability and insurance implications under programs such as the National Flood Insurance Program (NFIP).
 
