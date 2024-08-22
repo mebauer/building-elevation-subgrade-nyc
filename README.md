@@ -23,6 +23,7 @@ Figure xx: Percent of properties that were successfully measured by Neighborhood
 | Property not Visible Due to Construction or Obstruction; Property Under Construction                                                 |    1414 |
 | Property not Visible from Street; No Address Plate or Identification on Building; Property Under Construction                        |       1 |
 | Property not Visible from Street                                                                                                     |       1 |
+
 Table xx: Count of buildings per notes1 attribute that were not successfully measured.
 
 # 1. Introduction
