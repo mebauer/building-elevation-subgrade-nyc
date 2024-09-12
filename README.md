@@ -1,4 +1,4 @@
-# A Five Step Approach to Evaluate NYC’s Building Elevation and Subgrade Dataset in Python
+# Exploring the Building Elevation and Subgrade (BES) Dataset for New York City in Python
 Mark Bauer
 
 # Table of Contents
